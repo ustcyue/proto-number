@@ -1,6 +1,6 @@
 # proto-number
 
-This is a tool for automatically renumber proto sequence number in a message.
+This is a vim plugin for automatically renumber proto sequence number in a message.
 Note: requires python3 support in vim
 
 # Install
